@@ -1,0 +1,10 @@
+{"question": "Is the motorcycle away from the bird?", "answer": "No", "image": "000000385473.jpg", "width": 333, "height": 500, "bboxs": [[0.0, 2.25, 333.0, 494.38]], "dataset": "vsr", "split": "train"}
+{"question": "What is in front of the microwave?", "answer": "hot dog", "image": "000000454326.jpg", "width": 424, "height": 351, "bboxs": [[112.41, 265.91, 236.26, 317.72]], "dataset": "vsr", "split": "train"}
+{"question": "What is behind the sheep?", "answer": "cow", "image": "000000076970.jpg", "width": 500, "height": 366, "bboxs": [[0.0, 183.11, 94.44, 262.28000000000003]], "dataset": "vsr", "split": "train"}
+{"question": "Is the person at the left side of the couch?", "answer": "Yes", "image": "000000170099.jpg", "width": 640, "height": 478, "bboxs": [[13.96, 37.42, 363.07, 472.45]], "dataset": "vsr", "split": "train"}
+{"question": "What is beneath the cat?", "answer": "motorcycle", "image": "000000529968.jpg", "width": 640, "height": 480, "bboxs": [[83.95, 4.43, 587.62, 475.82]], "dataset": "vsr", "split": "train"}
+{"question": "What is behind the person?", "answer": "elephant", "image": "000000519208.jpg", "width": 640, "height": 406, "bboxs": [[0.0, 0.0, 640.0, 400.53]], "dataset": "vsr", "split": "train"}
+{"question": "Is the suitcase at the left side of the cat?", "answer": "No", "image": "000000332420.jpg", "width": 640, "height": 480, "bboxs": [[0.0, 143.46, 551.19, 408.81000000000006]], "dataset": "vsr", "split": "train"}
+{"question": "Is the potted plant below the elephant?", "answer": "Yes", "image": "000000069928.jpg", "width": 480, "height": 640, "bboxs": [[104.99, 330.79, 348.75, 640.0]], "dataset": "vsr", "split": "train"}
+{"question": "Is the chair above the cat?", "answer": "No", "image": "000000292101.jpg", "width": 640, "height": 480, "bboxs": [[0.36, 0.07, 640.0, 480.0]], "dataset": "vsr", "split": "train"}
+{"question": "What is under the dog?", "answer": "toilet", "image": "000000001622.jpg", "width": 333, "height": 500, "bboxs": [[1.12, 222.28, 333.0, 494.19000000000005]], "dataset": "vsr", "split": "train"}
